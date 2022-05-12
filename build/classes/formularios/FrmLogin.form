@@ -58,7 +58,7 @@
     <Component class="javax.swing.JLabel" name="jLabel3">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="2" name="C:\Users\andre\Pictures\prisma-logo-3805665B69-seeklogo.com.png"/>
+          <Image iconType="3" name="/formulario/iconos/prisma-logo-3805665B69-seeklogo.com.png"/>
         </Property>
       </Properties>
       <Constraints>
@@ -70,7 +70,7 @@
     <Component class="javax.swing.JLabel" name="jLabel1">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="2" name="C:\Users\andre\Pictures\70-709970_fondo-morado-oscuro-hd.jpg"/>
+          <Image iconType="3" name="/formulario/iconos/70-709970_fondo-morado-oscuro-hd.jpg"/>
         </Property>
       </Properties>
       <Constraints>

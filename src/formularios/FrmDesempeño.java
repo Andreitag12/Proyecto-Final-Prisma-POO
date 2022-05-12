@@ -170,7 +170,6 @@ public class FrmDesempeño extends javax.swing.JFrame {
         setMaximumSize(new java.awt.Dimension(1100, 710));
         setMinimumSize(new java.awt.Dimension(1100, 710));
         setUndecorated(true);
-        setPreferredSize(new java.awt.Dimension(1100, 710));
         getContentPane().setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
         jLabel10.setBackground(new java.awt.Color(255, 255, 255));

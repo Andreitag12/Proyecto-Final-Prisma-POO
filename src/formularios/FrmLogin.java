@@ -60,10 +60,10 @@ public class FrmLogin extends javax.swing.JFrame {
         jLabel8.setText("PRISMA");
         getContentPane().add(jLabel8, new org.netbeans.lib.awtextra.AbsoluteConstraints(220, 290, 260, 60));
 
-        jLabel3.setIcon(new javax.swing.ImageIcon("C:\\Users\\andre\\Pictures\\prisma-logo-3805665B69-seeklogo.com.png")); // NOI18N
+        jLabel3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/formulario/iconos/prisma-logo-3805665B69-seeklogo.com.png"))); // NOI18N
         getContentPane().add(jLabel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(80, 140, 250, 290));
 
-        jLabel1.setIcon(new javax.swing.ImageIcon("C:\\Users\\andre\\Pictures\\70-709970_fondo-morado-oscuro-hd.jpg")); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/formulario/iconos/70-709970_fondo-morado-oscuro-hd.jpg"))); // NOI18N
         getContentPane().add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 440, 630));
 
         jPanel1.setBackground(new java.awt.Color(16, 16, 16));

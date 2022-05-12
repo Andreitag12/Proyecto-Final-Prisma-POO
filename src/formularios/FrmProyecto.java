@@ -99,7 +99,6 @@ import javax.swing.JOptionPane;
         jLabel2.setForeground(new java.awt.Color(255, 255, 255));
         jLabel2.setText("ID: ");
 
-        TfNombreProyecto.setEditable(false);
         TfNombreProyecto.setBackground(new java.awt.Color(16, 16, 16));
         TfNombreProyecto.setFont(new java.awt.Font("Georgia", 0, 14)); // NOI18N
         TfNombreProyecto.setForeground(new java.awt.Color(78, 34, 88));
@@ -365,7 +364,6 @@ import javax.swing.JOptionPane;
     private void btnNuevoTActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnNuevoTActionPerformed
         // TODO add your handling code here:
         limpiar();
-        
         
     }//GEN-LAST:event_btnNuevoTActionPerformed
 

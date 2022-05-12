@@ -5,8 +5,6 @@
  */
 package proyectprisma;
 
-import formularios.FrmDesempeño;
-import formularios.FrmInicio;
 import formularios.FrmLogin;
 
 

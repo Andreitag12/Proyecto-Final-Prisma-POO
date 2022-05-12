@@ -97,7 +97,7 @@ public class FrmTrabajador extends javax.swing.JFrame {
         jLabel8.setIcon(new javax.swing.ImageIcon(getClass().getResource("/formulario/iconos/prisma-logo-3805665B69-seeklogo.com.png"))); // NOI18N
         getContentPane().add(jLabel8, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 170, -1, -1));
 
-        jLabel7.setIcon(new javax.swing.ImageIcon("C:\\Users\\andre\\Pictures\\70-709970_fondo-morado-oscuro-hd.jpg")); // NOI18N
+        jLabel7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/formulario/iconos/70-709970_fondo-morado-oscuro-hd.jpg"))); // NOI18N
         getContentPane().add(jLabel7, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 350, 630));
 
         jPanel1.setBackground(new java.awt.Color(16, 16, 16));
@@ -240,7 +240,7 @@ public class FrmTrabajador extends javax.swing.JFrame {
         btnAnteriorT.setBackground(new java.awt.Color(16, 16, 16));
         btnAnteriorT.setFont(new java.awt.Font("Georgia", 0, 12)); // NOI18N
         btnAnteriorT.setForeground(new java.awt.Color(255, 255, 255));
-        btnAnteriorT.setIcon(new javax.swing.ImageIcon("C:\\Users\\andre\\Downloads\\flecha-izquierda.png")); // NOI18N
+        btnAnteriorT.setIcon(new javax.swing.ImageIcon(getClass().getResource("/formulario/iconos/anterior (1).png"))); // NOI18N
         btnAnteriorT.setText("Anterior");
         btnAnteriorT.setBorder(null);
         btnAnteriorT.setFocusable(false);
@@ -261,7 +261,7 @@ public class FrmTrabajador extends javax.swing.JFrame {
         btnSiguienteT.setBackground(new java.awt.Color(16, 16, 16));
         btnSiguienteT.setFont(new java.awt.Font("Georgia", 0, 12)); // NOI18N
         btnSiguienteT.setForeground(new java.awt.Color(255, 255, 255));
-        btnSiguienteT.setIcon(new javax.swing.ImageIcon("C:\\Users\\andre\\Downloads\\flecha-derecha.png")); // NOI18N
+        btnSiguienteT.setIcon(new javax.swing.ImageIcon(getClass().getResource("/formulario/iconos/proximo.png"))); // NOI18N
         btnSiguienteT.setText("Siguiente");
         btnSiguienteT.setBorder(null);
         btnSiguienteT.setFocusable(false);
